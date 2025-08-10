@@ -4,7 +4,6 @@ import logging
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
 ModelConfig = {
     "MODEL_NAME": "UBC-NLP/MARBERTv2",
     "CACHE_DIR": None,  # or "./cache"
