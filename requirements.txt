@@ -1,0 +1,19 @@
+# PyTorch + CUDA 12.6
+torch
+torchvision
+torchaudio
+--index-url https://download.pytorch.org/whl/cu126
+
+# Core ML libraries
+unsloth
+transformers
+accelerate
+
+# Data processing and analysis
+pandas
+numpy
+seaborn
+flask
+
+
+
