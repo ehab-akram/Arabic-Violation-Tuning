@@ -6,7 +6,7 @@ A comprehensive fine-tuning pipeline for Arabic violation detection using MARBER
 
 Watch the Arabic Violation Detection system in action:
 
-https://github.com/your-username/violation_tuning/assets/your-user-id/Arabic_violation_Check.mp4
+[https://github.com/your-username/violation_tuning/assets/your-user-id/Arabic_violation_Check.mp4](https://github.com/ehab-akram/Arabic-Violation-Tuning/blob/main/Arabic_violation_Check.mp4)
 
 *Note: If the video doesn't play, you can download it from the repository root directory.*
 
