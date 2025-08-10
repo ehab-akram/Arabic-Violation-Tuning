@@ -3,10 +3,12 @@
 A comprehensive fine-tuning pipeline for Arabic violation detection using MARBERTv2 with Unsloth optimizations and LoRA. This project provides both training and inference capabilities for Arabic text classification.
 
 ## 📹 Demo Video
-
 Watch the Arabic Violation Detection system in action:
 
-[▶️ Watch the demo](https://github.com/ehab-akram/Arabic-Violation-Tuning/blob/main/Arabic_violation_Check.mp4?raw=true)
+<video width="640" height="480" controls>
+  <source src="https://github.com/ehab-akram/Arabic-Violation-Tuning/raw/main/Arabic_violation_Check.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
