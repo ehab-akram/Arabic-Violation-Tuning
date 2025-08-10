@@ -5,11 +5,7 @@ A comprehensive fine-tuning pipeline for Arabic violation detection using MARBER
 ## 📹 Demo Video
 Watch the Arabic Violation Detection system in action:
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/ehab-akram/Arabic-Violation-Tuning/raw/main/Arabic_violation_Check.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Demo Video](https://github.com/ehab-akram/Arabic-Violation-Tuning/raw/main/Arabic_violation_Check.mp4)
 
 
 ## 🚀 Features
